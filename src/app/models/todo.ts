@@ -1,6 +1,5 @@
-
 export class Todo {
-    public id: number;
+    public Id: number;
     public text: string;
     public isCompleted: boolean;
 }

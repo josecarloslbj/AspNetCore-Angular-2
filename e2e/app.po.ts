@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class TodoAppPage {
+export class TodoappAngular2Page {
   navigateTo() {
     return browser.get('/');
   }

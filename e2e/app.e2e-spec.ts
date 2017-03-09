@@ -1,10 +1,10 @@
-import { TodoAppPage } from './app.po';
+import { TodoappAngular2Page } from './app.po';
 
-describe('todo-app App', function() {
-  let page: TodoAppPage;
+describe('todoapp-angular2 App', function() {
+  let page: TodoappAngular2Page;
 
   beforeEach(() => {
-    page = new TodoAppPage();
+    page = new TodoappAngular2Page();
   });
 
   it('should display message saying app works', () => {

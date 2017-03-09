@@ -1,7 +1,7 @@
 {
   "project": {
     "version": "1.0.0-beta.28.3",
-    "name": "todo-app"
+    "name": "todoapp-angular2"
   },
   "apps": [
     {
@@ -18,11 +18,11 @@
       "tsconfig": "tsconfig.json",
       "prefix": "app",
       "styles": [
-        "../node_modules/materialize-css/dist/css/materialize.min.css"
+        "../node_modules/materialize-css/dist/css/materialize.min.css"      
       ],
       "scripts": [
         "../node_modules/jquery/dist/jquery.min.js",
-        "../node_modules/materialize-css/dist/js/materialize.min.js"
+        "../node_modules/materialize-css/dist/js/materialize.min.js"  
       ],
       "environments": {
         "source": "environments/environment.ts",

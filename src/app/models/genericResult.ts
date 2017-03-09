@@ -3,6 +3,7 @@ export class GenericSimpleResult {
     public success: boolean;
 }
 
+
 export class GenericResult<TResult> extends GenericSimpleResult {
     public result: TResult;
 }
